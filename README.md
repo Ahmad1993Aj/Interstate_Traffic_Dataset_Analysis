@@ -1,6 +1,3 @@
-# Interstate_Traffic_Dataset_Analysis
-
-
 # Interstate Traffic Dataset Analysis
 
 ## Overview
