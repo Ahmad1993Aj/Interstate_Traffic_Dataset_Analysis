@@ -20,7 +20,7 @@ This repository contains an analysis of the Interstate Traffic Dataset. The Jupy
 
 1. Clone the repository:
 \```
-git clone [URL of your GitHub repository]
+git clone https://github.com/Ahmad1993Aj/Interstate_Traffic_Dataset_Analysis.git
 \```
 
 2. Navigate to the directory:
@@ -28,12 +28,7 @@ git clone [URL of your GitHub repository]
 cd [Name of the directory]
 \```
 
-3. [If you're using Docker: Build the Docker image (optional):
-\```
-docker build -t traffic-analysis .
-\```
-
-4. Run the Jupyter notebook:
+3. Run the Jupyter notebook:
 \```
 jupyter notebook Interstate_Traffic_Dataset.ipynb
 \```
